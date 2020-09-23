@@ -5,10 +5,15 @@
 	"description": "Taks Planner App IETI ",
 	"background_color": "#00aae7",
 	"theme_color": "#00aae7",
-	"dir": "ltr",
+	"start_url": ".",
 	"display": "standalone",
 	"orientation": "any",
 	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "64x64 32x32 24x24 16x16",
+			"type": "image/x-icon"
+		},
 		{
 			"src": "images/icon/android-icon-192x192-dunplab-manifest-11023.png",
 			"type": "image/png",
@@ -74,6 +79,5 @@
 			"type": "image/png",
 			"sizes": "16x16"
 		}
-	],
-	"prefer_related_applications": "false"
+	]
 }
