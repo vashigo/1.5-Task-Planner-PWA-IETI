@@ -31,6 +31,11 @@ export function register(config) {
       return;
     }
 
+    //Add this part of code to your serviceWorker.js
+    window.addEventListener('install', () => {
+      console.log("install!!");
+    });
+
     window.addEventListener('load', () => {
       const swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;
 
