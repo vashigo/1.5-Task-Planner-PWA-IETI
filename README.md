@@ -1,5 +1,5 @@
-# 1.4-Task-Planner-Project-IETI
+# 1.5 Planificador de tareas PWA
 
-# link despliegue en Heroku
+# link despliegue en FIREBASE
 
-* [LAb 4 IETI - Heroku](https://task-planner-ieti-1-4.herokuapp.com/)
+* [LAb 5 IETI - FIREBASE](https://taks-planner-app-5894f.web.app/tasks/login)
